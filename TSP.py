@@ -5,6 +5,8 @@ from itertools import combinations,permutations
 from matplotlib import pyplot as plt
 from GenSearch import *
 
+# Комментарий
+
 def MGen(n=5,h=100,w=100):
     cou=0
     lst=[]
